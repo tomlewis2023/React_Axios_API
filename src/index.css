@@ -1,0 +1,28 @@
+.select_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+    color: blue;
+    font-size: larger;
+    font-weight: bolder;
+    
+
+}
+
+.item_1{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+    color: rgb(122, 32, 49);
+    font-size: larger;
+    font-weight: bolder;
+    list-style-type:none;
+    background-color: rgb(194, 228, 228);
+    
+
+}
